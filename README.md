@@ -8,10 +8,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/axwinachu/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/axwinachu/Leetcode/tree/master/0118-pascals-triangle) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/axwinachu/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [3668-restore-finishing-order](https://github.com/axwinachu/Leetcode/tree/master/3668-restore-finishing-order) |
 ## Hash Table
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/axwinachu/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [3668-restore-finishing-order](https://github.com/axwinachu/Leetcode/tree/master/3668-restore-finishing-order) |
 ## Matrix
 |  |
 | ------- |
