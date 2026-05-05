@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/axwinachu/Leetcode/tree/master/0547-number-of-provinces) |
+| [0967-numbers-with-same-consecutive-differences](https://github.com/axwinachu/Leetcode/tree/master/0967-numbers-with-same-consecutive-differences) |
 | [1971-find-if-path-exists-in-graph](https://github.com/axwinachu/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
@@ -66,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/axwinachu/Leetcode/tree/master/0061-rotate-list) |
+## Backtracking
+|  |
+| ------- |
+| [0967-numbers-with-same-consecutive-differences](https://github.com/axwinachu/Leetcode/tree/master/0967-numbers-with-same-consecutive-differences) |
 <!---LeetCode Topics End-->
