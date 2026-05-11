@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/axwinachu/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/axwinachu/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/axwinachu/Leetcode/tree/master/0118-pascals-triangle) |
+| [0215-kth-largest-element-in-an-array](https://github.com/axwinachu/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/axwinachu/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [3668-restore-finishing-order](https://github.com/axwinachu/Leetcode/tree/master/3668-restore-finishing-order) |
 ## Hash Table
@@ -89,4 +90,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/axwinachu/Leetcode/tree/master/0225-implement-stack-using-queues) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/axwinachu/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Sorting
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/axwinachu/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/axwinachu/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/axwinachu/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
