@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/axwinachu/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/axwinachu/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/axwinachu/Leetcode/tree/master/0118-pascals-triangle) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/axwinachu/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/axwinachu/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/axwinachu/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [3668-restore-finishing-order](https://github.com/axwinachu/Leetcode/tree/master/3668-restore-finishing-order) |
@@ -109,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/axwinachu/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Binary Search
+|  |
+| ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/axwinachu/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
