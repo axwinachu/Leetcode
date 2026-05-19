@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/axwinachu/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0804-unique-morse-code-words](https://github.com/axwinachu/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/axwinachu/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [2540-minimum-common-value](https://github.com/axwinachu/Leetcode/tree/master/2540-minimum-common-value) |
 | [3668-restore-finishing-order](https://github.com/axwinachu/Leetcode/tree/master/3668-restore-finishing-order) |
 ## Hash Table
 |  |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/axwinachu/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0242-valid-anagram](https://github.com/axwinachu/Leetcode/tree/master/0242-valid-anagram) |
 | [0804-unique-morse-code-words](https://github.com/axwinachu/Leetcode/tree/master/0804-unique-morse-code-words) |
+| [2540-minimum-common-value](https://github.com/axwinachu/Leetcode/tree/master/2540-minimum-common-value) |
 | [3668-restore-finishing-order](https://github.com/axwinachu/Leetcode/tree/master/3668-restore-finishing-order) |
 ## Matrix
 |  |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0061-rotate-list](https://github.com/axwinachu/Leetcode/tree/master/0061-rotate-list) |
 | [1768-merge-strings-alternately](https://github.com/axwinachu/Leetcode/tree/master/1768-merge-strings-alternately) |
+| [2540-minimum-common-value](https://github.com/axwinachu/Leetcode/tree/master/2540-minimum-common-value) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/axwinachu/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [2540-minimum-common-value](https://github.com/axwinachu/Leetcode/tree/master/2540-minimum-common-value) |
 ## Tree
 |  |
 | ------- |
