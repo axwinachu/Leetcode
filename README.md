@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/axwinachu/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/axwinachu/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/axwinachu/Leetcode/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/axwinachu/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/axwinachu/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/axwinachu/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0804-unique-morse-code-words](https://github.com/axwinachu/Leetcode/tree/master/0804-unique-morse-code-words) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/axwinachu/Leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/axwinachu/Leetcode/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/axwinachu/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Math
 |  |
 | ------- |
