@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/axwinachu/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/axwinachu/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2540-minimum-common-value](https://github.com/axwinachu/Leetcode/tree/master/2540-minimum-common-value) |
+| [3074-apple-redistribution-into-boxes](https://github.com/axwinachu/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3668-restore-finishing-order](https://github.com/axwinachu/Leetcode/tree/master/3668-restore-finishing-order) |
 ## Hash Table
 |  |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/axwinachu/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/axwinachu/Leetcode/tree/master/0242-valid-anagram) |
+| [3074-apple-redistribution-into-boxes](https://github.com/axwinachu/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -195,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/axwinachu/Leetcode/tree/master/0014-longest-common-prefix) |
+## Greedy
+|  |
+| ------- |
+| [3074-apple-redistribution-into-boxes](https://github.com/axwinachu/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 <!---LeetCode Topics End-->
