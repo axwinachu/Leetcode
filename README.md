@@ -64,10 +64,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/axwinachu/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [3295-report-spam-message](https://github.com/axwinachu/Leetcode/tree/master/3295-report-spam-message) |
 | [3498-reverse-degree-of-a-string](https://github.com/axwinachu/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
+| [3612-process-string-with-special-operations-i](https://github.com/axwinachu/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 ## Simulation
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/axwinachu/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
+| [3612-process-string-with-special-operations-i](https://github.com/axwinachu/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 ## Two Pointers
 |  |
 | ------- |
