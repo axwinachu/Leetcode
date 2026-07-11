@@ -18,31 +18,33 @@ class Node {
         right = _right;
         next = _next;
     }
-};+
+};
 */
 
 class Solution {
     public Node connect(Node root) {
-        Node temp=root;
         if(root==null)return root;
         Queue<Node> q=new LinkedList<>();
-        q.add(temp);
+        q.add(root);
+
         while(!q.isEmpty()){
             int size=q.size();
-            Node last=null;
             for(int i=0;i<size;i++){
-                Node polled=q.poll();
-                if(polled!=null && polled.left!=null){
-                    q.offer(polled.left);
+                Node curr=q.poll();
+                if(i!=size-1){
+                    if(!q.isEmpty()){
+                        curr.next=q.peek();
+                    }else{
+                        curr.next=null;
+                    }
                 }
-                if(polled!=null && polled.right!=null){
-                    q.offer(polled.right);
-                } 
-                polled.next=q.peek();
-                last=polled; 
+                if(curr.left!=null){
+                    q.offer(curr.left);
+                }
+                if(curr.right!=null){
+                    q.offer(curr.right);
+                }
             }
-            if(last!=null)last.next=null;
-
         }
         return root;
     }
