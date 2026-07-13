@@ -21,8 +21,9 @@ class Solution {
         }
         li.add(root.val);
         List<Integer> left=preorderTraversal(root.left);
-        left.addAll(preorderTraversal(root.right));
+        List<Integer> right=(preorderTraversal(root.right));
         li.addAll(left);
+        li.addAll(right);
         return li;
 
     }
