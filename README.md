@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/axwinachu/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3295-report-spam-message](https://github.com/axwinachu/Leetcode/tree/master/3295-report-spam-message) |
 | [3668-restore-finishing-order](https://github.com/axwinachu/Leetcode/tree/master/3668-restore-finishing-order) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/axwinachu/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/axwinachu/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/axwinachu/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/axwinachu/Leetcode/tree/master/0547-number-of-provinces) |
 | [1791-find-center-of-star-graph](https://github.com/axwinachu/Leetcode/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/axwinachu/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/axwinachu/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Linked List
 |  |
 | ------- |
