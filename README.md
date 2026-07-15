@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/axwinachu/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/axwinachu/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/axwinachu/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0203-remove-linked-list-elements](https://github.com/axwinachu/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/axwinachu/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Backtracking
 |  |
@@ -299,5 +300,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/axwinachu/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/axwinachu/Leetcode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
