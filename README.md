@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/axwinachu/Leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/axwinachu/Leetcode/tree/master/0066-plus-one) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/axwinachu/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## String
 |  |
 | ------- |
@@ -285,4 +286,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/axwinachu/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/axwinachu/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/axwinachu/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
