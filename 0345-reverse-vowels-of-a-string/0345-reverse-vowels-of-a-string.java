@@ -10,7 +10,6 @@ class Solution {
             while(i<j && !isVowel(str[j])){
                 j--;
             }
-            if(j<=i ||j<0)return new String(str);
             char temp=str[i];
             str[i]=str[j];
             str[j]=temp;
