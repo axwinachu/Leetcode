@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/axwinachu/Leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/axwinachu/Leetcode/tree/master/0066-plus-one) |
+| [0326-power-of-three](https://github.com/axwinachu/Leetcode/tree/master/0326-power-of-three) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/axwinachu/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## String
 |  |
@@ -314,4 +315,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/axwinachu/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/axwinachu/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/axwinachu/Leetcode/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
