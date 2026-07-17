@@ -3,8 +3,7 @@ class Solution {
         int i=0;
         int j=0;
         int count=0;
-        while(i<s.length() && j<t.length()){
-            char ch=s.charAt(i);
+        
             while(j<t.length() && i<s.length()){
                 if(s.charAt(i) != t.charAt(j)){
                     j++;
@@ -15,7 +14,6 @@ class Solution {
                 }
                 
             }
-        }
        return count==s.length();
     }
 }
