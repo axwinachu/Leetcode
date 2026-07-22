@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/axwinachu/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0724-find-pivot-index](https://github.com/axwinachu/Leetcode/tree/master/0724-find-pivot-index) |
 | [0804-unique-morse-code-words](https://github.com/axwinachu/Leetcode/tree/master/0804-unique-morse-code-words) |
+| [0832-flipping-an-image](https://github.com/axwinachu/Leetcode/tree/master/0832-flipping-an-image) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/axwinachu/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/axwinachu/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/axwinachu/Leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/axwinachu/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0832-flipping-an-image](https://github.com/axwinachu/Leetcode/tree/master/0832-flipping-an-image) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/axwinachu/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Dynamic Programming
 |  |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/axwinachu/Leetcode/tree/master/0412-fizz-buzz) |
+| [0832-flipping-an-image](https://github.com/axwinachu/Leetcode/tree/master/0832-flipping-an-image) |
 | [3498-reverse-degree-of-a-string](https://github.com/axwinachu/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/axwinachu/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 ## Two Pointers
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/axwinachu/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/axwinachu/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/axwinachu/Leetcode/tree/master/0392-is-subsequence) |
+| [0832-flipping-an-image](https://github.com/axwinachu/Leetcode/tree/master/0832-flipping-an-image) |
 | [1768-merge-strings-alternately](https://github.com/axwinachu/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2540-minimum-common-value](https://github.com/axwinachu/Leetcode/tree/master/2540-minimum-common-value) |
 ## Depth-First Search
@@ -341,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/axwinachu/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0389-find-the-difference](https://github.com/axwinachu/Leetcode/tree/master/0389-find-the-difference) |
+| [0832-flipping-an-image](https://github.com/axwinachu/Leetcode/tree/master/0832-flipping-an-image) |
 ## Prefix Sum
 |  |
 | ------- |
