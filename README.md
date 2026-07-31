@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/axwinachu/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/axwinachu/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0804-unique-morse-code-words](https://github.com/axwinachu/Leetcode/tree/master/0804-unique-morse-code-words) |
+| [1763-longest-nice-substring](https://github.com/axwinachu/Leetcode/tree/master/1763-longest-nice-substring) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/axwinachu/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/axwinachu/Leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2540-minimum-common-value](https://github.com/axwinachu/Leetcode/tree/master/2540-minimum-common-value) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/axwinachu/Leetcode/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/axwinachu/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/axwinachu/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1763-longest-nice-substring](https://github.com/axwinachu/Leetcode/tree/master/1763-longest-nice-substring) |
 | [1768-merge-strings-alternately](https://github.com/axwinachu/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/axwinachu/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/axwinachu/Leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/axwinachu/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/axwinachu/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/axwinachu/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [1763-longest-nice-substring](https://github.com/axwinachu/Leetcode/tree/master/1763-longest-nice-substring) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/axwinachu/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Stack
 |  |
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/axwinachu/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/axwinachu/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/axwinachu/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [1763-longest-nice-substring](https://github.com/axwinachu/Leetcode/tree/master/1763-longest-nice-substring) |
 ## Sorting
 |  |
 | ------- |
@@ -349,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/axwinachu/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0389-find-the-difference](https://github.com/axwinachu/Leetcode/tree/master/0389-find-the-difference) |
 | [0832-flipping-an-image](https://github.com/axwinachu/Leetcode/tree/master/0832-flipping-an-image) |
+| [1763-longest-nice-substring](https://github.com/axwinachu/Leetcode/tree/master/1763-longest-nice-substring) |
 ## Prefix Sum
 |  |
 | ------- |
