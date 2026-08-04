@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/axwinachu/Leetcode/tree/master/0832-flipping-an-image) |
 | [1470-shuffle-the-array](https://github.com/axwinachu/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/axwinachu/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1929-concatenation-of-array](https://github.com/axwinachu/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/axwinachu/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/axwinachu/Leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2540-minimum-common-value](https://github.com/axwinachu/Leetcode/tree/master/2540-minimum-common-value) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/axwinachu/Leetcode/tree/master/0412-fizz-buzz) |
 | [0832-flipping-an-image](https://github.com/axwinachu/Leetcode/tree/master/0832-flipping-an-image) |
+| [1929-concatenation-of-array](https://github.com/axwinachu/Leetcode/tree/master/1929-concatenation-of-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/axwinachu/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/axwinachu/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 ## Two Pointers
