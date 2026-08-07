@@ -4,7 +4,7 @@ class Solution {
         Queue<Integer> q=new LinkedList<>();
         li.add(List.of(1));
         q.add(1);
-        for(int i=1;i<=rowIndex;i++){
+        for(int i=0;i<rowIndex;i++){
           int prev=0;
           int size=q.size();
           List<Integer> curr=new ArrayList<>();
